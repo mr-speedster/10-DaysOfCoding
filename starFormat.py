@@ -1,1 +1,1 @@
-print("*\n*\t*\n*\t*\t*\n")
+print("*\n*\t*\n*\t*\t*",end="\n")
