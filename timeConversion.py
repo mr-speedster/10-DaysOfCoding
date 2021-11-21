@@ -1,5 +1,5 @@
 import re
-time = "12:40:22AM"
+time = "12:40:22PM"
 list=time.split(":")
 if("AM" in time):
     if(int(list[0])==12):
