@@ -52,6 +52,7 @@ class Test(Manager,Officer):
     manager=Manager(name,age,phone,address,salary,special,dept)
     manager.managerDisplay()
 
+
     print("Enter the Officer deatils")
     name1=input("Enter the name")
     age1=int(input("Enter the age"))
