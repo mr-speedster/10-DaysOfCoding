@@ -40,7 +40,7 @@ class Officer(Employee):
         Employee.employeeDisplay()
         print("Specialization"+self.specialization)
         print("Department"+self.department)
-class Test:
+class Test(Manager,Officer):
     print("Enter the manager deatils")
     name=input("Enter the name")
     age=int(input("Enter the age"))
