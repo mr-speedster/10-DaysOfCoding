@@ -1,3 +1,1 @@
-# 10-DaysOfCoding
-
-### Coding with Python
+## Random Code
